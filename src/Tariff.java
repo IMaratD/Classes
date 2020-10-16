@@ -1,4 +1,5 @@
 public class Tariff {
+    String id;
     String name;
     int minutes;
     boolean unlimToTele2;
